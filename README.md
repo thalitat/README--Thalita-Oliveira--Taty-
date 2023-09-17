@@ -4,13 +4,14 @@
 
 <img align="right" width="100" height="100" src= "https://github.com/Thalitasoliveira/ThalitaSOliveira/assets/110640572/dbf1d9c5-1c21-4a76-be63-4e861f0e93dd"/>
 
--🔭 I am currently working as a System Analyst in the Agilist position.
+-🔭 I am currently working as a Systems Analyst in an Agilist position.
 
--🌱 I'm currently learning about the world of data (languages ​​and tools in this area and improving in agile projects);
+-🌱 I'm currently learning about the world of data, including languages and tools in this area, and improving in agile projects.
 
--👯 I work in a traditional company on the innovation team and I also tend to do freelance work depending on my availability.
+-👯 I work in a traditional company on the innovation team, and I also tend to take on freelance work depending on my availability.
 
 📫 How to contact me: 
+
    * 📩 E-mail: tatytech@outlook.com:          
    * 🔗 Linkedin: https://www.linkedin.com/in/thalitaosb/
 
