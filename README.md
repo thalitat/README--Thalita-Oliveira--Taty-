@@ -24,10 +24,50 @@
 </div>
 
 -------------------------------------------------------------------------------------------------------------------------------------------
-<h1> More </h1>
+<h1> ⚒️ Tools and technologies:</h1>
 
--⚒️ Tools and technologies:
 
--📘I am learning:
+<div style="display: flex; justify-content: space-between;">
+    <img loading="lazy" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" width="80" height="80"/>
+    <img loading="lazy" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" width="80" height="80"/>
+    <img loading="lazy" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" width="80" height="80"/>
+    <img loading="lazy" src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat" width="80" height="80"/>
+    <img loading="lazy" src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat" width="80" height="80"/>
+    <img loading="lazy" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" width="80" height="80"/>
+    <img loading="lazy" src="https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white&style=flat" width="80" height="80"/>
+    <img loading="lazy" src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat" width="80" height="80"/>
+    <img loading="lazy" src="https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white&style=flat" width="80" height="80"/>
+    <img loading="lazy" src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat" width="80" height="80"/>
+    <img loading="lazy" src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat" width="80" height="80"/>
+    <img loading="lazy" src="https://img.shields.io/badge/-Adobe-FF0000?logo=adobe&logoColor=white&style=flat" width="80" height="80"/>
+    <img loading="lazy" src="https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat" width="80" height="80"/>
+</div>
+
+-------------------------------------------------------------------------------------------------------
+
+<h1> 📘I am learning: </h1>
+
+<div style="display: flex; justify-content: space-between;">
+    <img loading="lazy" src="https://img.shields.io/badge/Jenkins-CI%2FCD-0096D8?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" width="80" height="80"/>
+    <img loading="lazy" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" width="80" height="80"/>
+    <img loading="lazy" src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" width="80" height="80"/>
+    <img loading="lazy" src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" width="80" height="80"/>
+    <img loading="lazy" src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" width="80" height="80"/>
+    <img loading="lazy" src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" width="80" height="80"/>
+    <img loading="lazy" src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular" width="80" height="80"/>
+    <img loading="lazy" src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle" width="80" height="80"/>
+</div>
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+<div>
+  <a href="https://github.com/Thalitasoliveira">
+    <img style="display: inline-block; width: 48%;" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalitasoliveira&layout=compact&langs_count=7&theme=dracula"/>
+    <img style="display: inline-block; width: 48%;" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Thalitasoliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
+
+
+
 
 
