@@ -50,9 +50,6 @@
     <img loading="lazy" src="https://img.shields.io/badge/Jenkins-CI%2FCD-0096D8?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" width="80" height="80"/>
     <img loading="lazy" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" width="80" height="80"/>
     <img loading="lazy" src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" width="80" height="80"/>
-    <img loading="lazy" src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" width="80" height="80"/>
-    <img loading="lazy" src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" width="80" height="80"/>
-    <img loading="lazy" src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" width="80" height="80"/>
     <img loading="lazy" src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular" width="80" height="80"/>
     <img loading="lazy" src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle" width="80" height="80"/>
 </div>
