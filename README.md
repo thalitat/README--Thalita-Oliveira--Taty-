@@ -6,9 +6,7 @@
 
 -🔭 I am currently working as a Systems Analyst in an Agilist position.
 
--🌱 I'm currently learning about the world of data, including languages and tools in this area, and improving in agile projects.
-
--👯 I work in a traditional company on the innovation team, and I also tend to take on freelance work depending on my availability.
+-⚒️ I work in a traditional company on the innovation team, and I also tend to take on freelance work depending on my availability.
 
 📫 How to contact me: 
 
