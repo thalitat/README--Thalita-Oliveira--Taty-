@@ -4,7 +4,7 @@
 ### Hii, my name is Thalita, welcome to my profile! You can call me Taty or Tablet 🤣👩🏻‍💻😊
 
 - 📖 Completing the undergraduate course in Systems Analysis and Development (Uniube);                 
-- 🔭 I work as a Jr IT Analyst in the following positions (Jr IT Analyst l Agilist l Project  I Product );
+- 🔭 I work as a Jr IT Analyst in the following positions (Jr IT Analyst l Agilist l Project  I Product);
 - ⚡Continuously learning and improving my studies in projects, technologies and design;
    <div>   
      <img align="right" alt="Me" height="100" style="border-radius:50px;" src="https://media.tenor.com/TloDypFZSuAAAAAC/taiga-peace.gif">
