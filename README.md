@@ -54,7 +54,7 @@
       </tr>
       <tr>
         <td align="center">
-           <img width="360px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalitasoliveira&layout=compact&theme=tokyonight&count_private=true&show_icons=true&langs_count=8&cache_seconds=3600"/>
+           <img width="360px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalitat&layout=compact&theme=tokyonight&count_private=true&show_icons=true&langs_count=8&cache_seconds=3600"/>
         </td>
         <td align="center">
          <img width="460px" align="center" src="https://github-readme-stats.vercel.app/api?username=thalitat&count_private=true&show_icons=true&theme=tokyonight"/>
