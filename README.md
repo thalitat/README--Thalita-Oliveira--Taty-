@@ -49,7 +49,7 @@
     <table border="0">
       <tr>
         <td colspan="2" align="center">
-          <img width="600px" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Thalitasoliveira&theme=tokyonight"/> 
+          <img width="600px" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=thalitat&theme=tokyonight"/> 
         </td>
       </tr>
       <tr>
@@ -57,7 +57,7 @@
            <img width="360px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalitasoliveira&layout=compact&theme=tokyonight&count_private=true&show_icons=true&langs_count=8&cache_seconds=3600"/>
         </td>
         <td align="center">
-         <img width="460px" align="center" src="https://github-readme-stats.vercel.app/api?username=Thalitasoliveira&count_private=true&show_icons=true&theme=tokyonight"/>
+         <img width="460px" align="center" src="https://github-readme-stats.vercel.app/api?username=thalitat&count_private=true&show_icons=true&theme=tokyonight"/>
         </td>
       </tr>
     </table>
