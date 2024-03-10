@@ -1,7 +1,7 @@
 
 # Thalita Oliveira - Taty Tech
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Hii, my name is Thalita, welcome to my profile! You can call me Taty or Tablet 🤣👩🏻‍💻😊
+### Hii, my name is Thalita, welcome to my profile! You can call me Taty or Tablet 👩🏻‍💻😊
 
 - 📖 Completing the undergraduate course in Systems Analysis and Development (Uniube);                 
 - 🔭 I work as a Jr IT Analyst in the following positions (Jr IT Analyst l Agilist l Project  I Product);
