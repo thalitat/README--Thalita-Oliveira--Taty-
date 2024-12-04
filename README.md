@@ -11,14 +11,11 @@
 
 ***********************************************************
 <div>
-<h2> 📩 contact 📩 </h2> 
+<h2> 📩 Contact 📩 </h2> 
   
   <a href="https://www.linkedin.com/in/thalitaosb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </div>  
 
-<div>   
-     <img align="right" alt="Me" height="100" style="border-radius:50px;" src="https://media.tenor.com/TloDypFZSuAAAAAC/taiga-peace.gif">
-</div>
 
 ***********************************************************
 
