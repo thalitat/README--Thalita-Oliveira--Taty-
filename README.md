@@ -1,7 +1,12 @@
 
 # Thalita Oliveira - Taty Tech
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Hii, my name is Thalita, welcome to my profile! You can call me Taty or Tablet 🪄🧹
+<div>   
+     <img align="right" alt="Me" height="100" style="border-radius:50px;" src="https://media.tenor.com/TloDypFZSuAAAAAC/taiga-peace.gif">
+</div>
+
+### Hii, my name is Thalita! You can call me Taty or Tablet 🪄🧹
 
 - 👩🏻‍🎓 Graduated in Systems Analysis and Development from the University of Uberaba (Uniube).
 - 🔭 I work as a mid-level Product Designer or Manager.
