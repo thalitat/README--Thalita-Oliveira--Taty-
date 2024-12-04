@@ -8,26 +8,25 @@
 - 🦈🧹 "Product Girl": my archetypes are a shark and a witch — find out why!
 - ⚡ Always learning and continuously improving my knowledge in projects, technologies, and design.
 
-   <div>   
-     <img align="right" alt="Me" height="100" style="border-radius:50px;" src="https://media.tenor.com/TloDypFZSuAAAAAC/taiga-peace.gif">
-</div>
 
----------------------------------------------------------
+***********************************************************
 <div>
 <h2> 📩 contact 📩 </h2> 
   
   <a href="https://www.linkedin.com/in/thalitaosb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  <a href = "mailto:thalitasantos445@gmail.com"> </a> 
 </div>  
 
+<div>   
+     <img align="right" alt="Me" height="100" style="border-radius:50px;" src="https://media.tenor.com/TloDypFZSuAAAAAC/taiga-peace.gif">
+</div>
 
 ***********************************************************
 
 <div>
 
 <h2> ⚒️ Some tools and technology I work with ⚒️ </h2> 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+
+**********************************************************
 <br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
