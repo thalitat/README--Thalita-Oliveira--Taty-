@@ -9,10 +9,10 @@
 ### Hii, my name is Thalita! You can call me Taty or Tablet 🪄🧹
 
 - 👩🏻‍🎓 Graduated in Systems Analysis and Development from the University of Uberaba (Uniube).
-- 🔭 I work as a mid-level Product Designer or Manager.
-- 🦈🧹 "Product Girl": my archetypes are a shark and a witch — find out why!
-- ⚡ Always learning and continuously improving my knowledge in projects, technologies, and design.
-
+- 🔭 I work at the intersection of Product Design, Product Ops, and Strategy, focusing on scalable, user-centered digital products.
+- ⚙️ Experienced in product lifecycle management from discovery to delivery optimizing processes, defining metrics, and mentoring product and design teams.
+- 🦈🧙‍♀️ “Product Girl”: my archetypes are a shark (determination) and a witch (creativity) — curious why?
+- 📚 Currently deepening my skills with an MBA in Strategy, Leadership & Digital Process Management.
 
 ***********************************************************
 <div>
